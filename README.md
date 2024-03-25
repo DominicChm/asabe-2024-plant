@@ -18,17 +18,23 @@ Note: Quantities are provided as recommendations for a *fully populated **averag
 | Stem (Short)                    | 64                | [STL](Stem_Short.stl)                                                                                                                               |
 | Stem (Medium)                   | 64                | [STL](Stem_Medium.stl)                                                                                                                              |
 | Stem (Long)                     | 64                | [STL](Stem_Long.stl)                                                                                                                                |
-| Leaves                          | 64                | [STL](Leaves.stl)                                                                                                                                   |
-| Flower                          | 64                | [STL](Flower.stl)                                                                                                                                   |
+| Leaves                          | 96                | [STL](Leaves.stl)                                                                                                                                   |
+| Flower                          | 32                | [STL](Flower.stl)                                                                                                                                   |
 | Spray Paint (Healthy Leaf)      | 1                 | [Gloss Meadow Green](https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Gloss-Green-General-Purpose-Spray-Paint-334039/307244868)      |
 | Spray Paint (Unhealthy Leaf)    | 1                 | [Satin Green Apple](https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Satin-Green-Apple-General-Purpose-Spray-Paint-334070/307244897) |
 | Spray Paint (Stem/Stalk)        | 1                 | [Satin Moss Green](https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Satin-Moss-Green-General-Purpose-Spray-Paint-334075/307244920)   |
+
+## 3D Printing Notes
+The manufacture of the 2023 ASABE plant requires 3D printing. If you do not have a 3D printer, there are good options at or around the 200$ USD price point. Alternatively, there are many online brokers out there that can get the parts printed at a very price. For one beginner row (12 beginner trunks, 64 long stems, 16 flowers, 48 leaves) [craftcloud3d](craftcloud3d.com) claims to be able to get the job done for ~50$.
+
+If printing yourself, be aware that the specified **PETG filament has different properties to common PLA**. It is significantly more flexible and tough which affects how the simulation plants react to disturbances. We highly recommend using it.
 
 ## Instructions
 1. Print stalks, leaves, flowers, and stems using white PETG filament. 
    1. If desired, CAD files may be modified as needed to achieve reliable press fits in the steps below (given your printer / material).
    2. The quantities provided in the component table provide our recommendation for a full field's worth of plants. **We recommend printing one of each part first to validate tolerances before printing more.**
-   3. A full field will consist of *up to* 192 total stems. *For testing*, we recommend equally distributing this total among the three provided sizes (64 short, 64 medium, 64 long). Note that the actual distribution will **not** be announced.
+   3. If desired, the "thick" versions of leaves/flowers may be printed for extra robustness. Note that the standard thickness (0.4mm) leaves/flowers will be used at competition.
+   4. A full field will consist of *up to* 192 total stems. *For testing*, we recommend equally distributing this total among the three provided sizes (64 short, 64 medium, 64 long). Note that the actual distribution will **not** be announced.
 2. Spray paint all components. 
    1. Leaves should be roughly split between the "healthy" and "unhealthy" color.
    2. Stems and stalks should be painted the "healthy" color
