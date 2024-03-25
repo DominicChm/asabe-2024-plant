@@ -8,7 +8,7 @@ This repository contains the files needed to print the simulation plant for the 
 | Stem  | The part that connects the stalk and leaves/flowers. It holds a 6mmx3mm magnet. |
 
 # Assembly
-Note: Quantities are provided as recommendations for a *fully populated **average** arena*. This is not necessarily indicative of the competition arena. For more information, see section 3 of [Performance Scoring](https://docs.google.com/document/d/1JPMAodRuwTGvhz5UEUWVJHI-WIk5GcbBl3c8BVmr7d0/edit#heading=h.e97s3mxjygqm)
+Note: Quantities are provided as recommendations for a *fully populated **average** arena*. This is not necessarily indicative of the competition arena. For more information, see section 3 of [Performance Scoring](https://docs.google.com/document/d/1JPMAodRuwTGvhz5UEUWVJHI-WIk5GcbBl3c8BVmr7d0/edit#heading=h.aye7t6q3p1dy)
 | Component                       | Quantity          | Link                                                                                                                                                |
 | ------------------------------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | White PETG Filament             | 1                 | [Amazon](https://www.amazon.com/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B07PDV9RC8/)                                                  |
@@ -51,8 +51,8 @@ Example Assembly: https://a360.co/4aaLmyi
 
 For the beginner division, all stems are placed on the same level.
 
-## Advanced [(Rules)](https://docs.google.com/document/d/1JPMAodRuwTGvhz5UEUWVJHI-WIk5GcbBl3c8BVmr7d0/edit#heading=h.tlkuhso64f3s)
+## Advanced [(Rules)](https://docs.google.com/document/d/1JPMAodRuwTGvhz5UEUWVJHI-WIk5GcbBl3c8BVmr7d0/edit#heading=h.ouqn01p8ic3i)
 
 Example Assembly: https://a360.co/3RiKY86
 
-For the advanced division, both the vertical and radial position of a given leaf or flower can vary. Stem radii can vary from 1.2" - 2.25" from the center of the stalk. Depending on the plant's position within the field, the height of the stem can also vary from between 2.75" - 7.25" above the arena surface. *For specific and up-to-date information, see [section 10 of the advanced division rules](https://docs.google.com/document/d/1JPMAodRuwTGvhz5UEUWVJHI-WIk5GcbBl3c8BVmr7d0/edit#heading=h.tlkuhso64f3s)*
+For the advanced division, both the vertical and radial position of a given leaf or flower can vary. Stem radii can vary from 1.2" - 2.25" from the center of the stalk. Depending on the plant's position within the field, the height of the stem can also vary from between 2.75" - 7.25" above the arena surface. *For specific and up-to-date information, see [section 9 of the advanced division rules](https://docs.google.com/document/d/1JPMAodRuwTGvhz5UEUWVJHI-WIk5GcbBl3c8BVmr7d0/edit#heading=h.ouqn01p8ic3i)*
