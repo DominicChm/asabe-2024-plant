@@ -29,6 +29,8 @@ The manufacture of the 2023 ASABE plant requires 3D printing. If you do not have
 
 If printing yourself, be aware that the specified **PETG filament has different properties to common PLA**. It is significantly more flexible and tough which affects how the simulation plants react to disturbances. We highly recommend using it.
 
+Note that PETG filament can absorb water over time. If you're having excessive stringing, problems with bed adhesion, bumps on the extruded filament when loading, or poor surface quality, you may need to [dry your filament](https://help.prusa3d.com/article/drying-filament_332086).
+
 ## Instructions
 1. Print stalks, leaves, flowers, and stems using white PETG filament. 
    1. If desired, CAD files may be modified as needed to achieve reliable press fits in the steps below (given your printer / material).
